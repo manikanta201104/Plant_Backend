@@ -78,7 +78,7 @@ Static Files: Images served at /Uploads/filename.jpg.
 Deployment
 
 Platform: Render (free tier).
-Deployed URL: [https://your-backend.render.com] (replace with actual).
+Deployed URL: [https://urvann-yz2n.onrender.com] (replace with actual).
 Configuration:
 Set MONGO_URI in Render’s environment variables.
 Build: npm install
